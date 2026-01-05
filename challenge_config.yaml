@@ -11,7 +11,7 @@ category: [Paper, Dataset, Environment, Workshop]
 leaderboard_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas a libero nec sagittis.
 evaluation_script: evaluation_script.zip
 remote_evaluation: False
-start_date: 2019-01-01 00:00:00
+start_date: 2026-01-01 00:00:00
 end_date: 2099-05-31 23:59:59
 published: True
 tags: 
@@ -163,3 +163,4 @@ challenge_phase_splits:
     is_leaderboard_order_descending: True
     show_execution_time: True
     show_leaderboard_by_latest_submission: True
+
